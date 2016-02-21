@@ -1,0 +1,28 @@
+name: ljdp
+favicon: null
+layout_spectrum: 0.9274865051265806
+typography_spectrum: 0.8170776502229273
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.7182486597448587
+  lightness: 0.7453863194677979
+  saturation: 0.46663080202415586
+  rhythmicContrast: 0.920069735031575
+purpose: []
